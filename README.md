@@ -21,6 +21,22 @@
     <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="500" height="120" align="center" >
 </div>
 
+### Demo
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+*   Compact layout
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+
+*   Donut Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+*   Donut Vertical Chart layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
