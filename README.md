@@ -21,10 +21,9 @@
     <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="500" height="120" align="center" >
 </div>
 
-### Demo
+<!--     ### Demo
 *   Donut Vertical Chart layout
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
