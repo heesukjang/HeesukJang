@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey everyone, I'm Heesuk Jang, AKA the Data Queen 👋
 
 m
 **heesukjang/HeesukJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
