@@ -5,6 +5,7 @@
 <!--  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> -->
 <!--  <img width="100px" src="https://img.icons8.com/?size=100&id=ECMoRI9OnXkc&format=png&color=000000?raw=true" align="center" alt="GitHub Readme Stats" /> -->
  <img width="100px" src="https://github.com/user-attachments/assets/d7fef0b2-f2f9-4bd5-a050-fb39990f35f7?raw=true" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://media.tenor.com/ujEy3X11-m8AAAAi/modular-festival-modular.gif?raw=true" align="center" alt="GitHub Readme Stats" />
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
