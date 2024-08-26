@@ -5,6 +5,30 @@
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true"> 
 </div>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Images</title>
+    <style>
+        .centered-images {
+            text-align: center;
+        }
+        .centered-images img {
+            width: 300px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-images">
+        <img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif?raw=true">
+        <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true">
+    </div>
+</body>
+</html>
+
 
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
