@@ -1,7 +1,7 @@
 ## Hey everyone, I'm Heesuk Jang, AKA the Data Queen 👋
 
 m
-**heesukjang/HeesukJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heesukjang/HeesukJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.vvb
 <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/All%20-%20Hackathon%20QueenV2.jpg?raw=true">
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
