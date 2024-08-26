@@ -9,10 +9,10 @@
 <!--  <img width="100px" src="https://media.tenor.com/IJfX2DlG2AEAAAAi/curiouspiyuesh-piyueshmodi.gif?raw=true" align="center" alt="GitHub Readme Stats" /> -->
 </p>
 
-<h2 align="center">Hi, I am Heesuk, who is an experienced analyst and scientist specializing in NLU, Deep Learning, and Advanced Technologies 👋</h2>
-<p align="left">Hi, I am Heesuk -- an experienced and highly motivated Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning (DL), and researching new technologies with innate curiosity and a love of learning. With 6 years‘ experience in data analytics, data science, and machine learning, I have a proven track record of writing quality code and delivering projects on schedule as well as demonstrated ability to learn new tools quickly and develop innovative solutions to problems. My leadership experience includes providing training and assisting colleagues on new technologies as well as being active in S&P Global’s Women In Technology. I have a passion not only to succeed but to help others succeed as well.
+<h2 align="center">About</h2>
+<p align="left">Hi, I am Heesuk! 👋 With over 6 years of experience, I am a Data Scientist and Analyst focused on Natural Language Understanding (NLU), Deep Learning, and machine learning. I consistently deliver high-quality solutions and code, while also leading efforts in emerging technologies and mentoring teams, including active participation in S&P Global’s Women In Technology.
 
-I am an experienced analyst and scientist with an academic background in finance, computer science and data science. My professional experience includes usage of real-world data within the energy industries especially natural gas, oil and coal. I recently completed my master's degree in Information and Data Science at UC Berkeley. My skillset encompasses data analytics, exploratory data analysis (EDA), feature engineering, model building/tuning, and the ability to articulate insights to diverse audiences. My goal is to enhance transparency in the machine learning workflow through statistical rigor and thoughtful engineering.
+My expertise is grounded in finance, computer science, and data science, and I have applied it effectively within the energy sector, particularly in natural gas, oil, and coal. Recently, I completed a master’s degree in Information and Data Science at UC Berkeley, enhancing my skills in exploratory data analysis, feature engineering, and model optimization. I am committed to driving transparency and precision in machine learning through rigorous statistical methods and clear communication.
 </p>
 
 <div align="center">
