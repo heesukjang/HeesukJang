@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Great Day! 🚀
-
-<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
-</a> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
+    </a> 
+</p>
 =====
 
 <h1 align="center">Hi 👋, I'm Heesuk Jang.</h1>
