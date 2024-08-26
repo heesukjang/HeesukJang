@@ -7,35 +7,8 @@
  <img width="100px" src="https://github.com/user-attachments/assets/d7fef0b2-f2f9-4bd5-a050-fb39990f35f7?raw=true" align="center" alt="GitHub Readme Stats" />
 <!--  <img width="50px" src="https://media.tenor.com/ujEy3X11-m8AAAAi/modular-festival-modular.gif?raw=true" align="center" alt="GitHub Readme Stats" /> -->
 <!--  <img width="100px" src="https://media.tenor.com/IJfX2DlG2AEAAAAi/curiouspiyuesh-piyueshmodi.gif?raw=true" align="center" alt="GitHub Readme Stats" /> -->
- 
- 
 </p>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-    </a>
-    <br />
-    <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
-  </p>
- 
+
 <h2 align="center">Hey everyone, I'm Heesuk Jang, AKA the Data Queen 👋</h2>
 <p align="left">I am an experienced and highly motivated Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning (DL), and researching new technologies with innate curiosity and a love of learning. With 6 years‘ experience in data analytics, data science, and machine learning, I have a proven track record of writing quality code and delivering projects on schedule as well as demonstrated ability to learn new tools quickly and develop innovative solutions to problems. My leadership experience includes providing training and assisting colleagues on new technologies as well as being active in S&P Global’s Women In Technology. I have a passion not only to succeed but to help others succeed as well.
 </p>
