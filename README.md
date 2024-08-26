@@ -22,6 +22,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div align="center">
     <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="500" height="120" align="center" >
 </div>
+<br/>
 <h1 align="center">Featured Projects</h1>
 <!--     ### Demo
 *   Donut Vertical Chart layout
