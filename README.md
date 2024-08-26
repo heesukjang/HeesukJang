@@ -4,6 +4,7 @@ I am an experienced and highly motivated Data Scientist and Analyst with a passi
 <div style="align: center;">
 <!--     <img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif?raw=true" width="100" height="200"> -->
     <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true" >
+    <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" >
 </div>
 
 
