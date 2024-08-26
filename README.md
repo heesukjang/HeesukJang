@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **heesukjang/HeesukJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/All%20-%20Hackathon%20QueenV2.jpg?raw=true">
 
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Great Day! 🚀
