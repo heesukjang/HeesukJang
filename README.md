@@ -2,7 +2,7 @@
 I am an experienced and highly motivated Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning (DL), and researching new technologies with innate curiosity and a love of learning. With 6 years‘ experience in data analytics, data science, and machine learning, I have a proven track record of writing quality code and delivering projects on schedule as well as demonstrated ability to learn new tools quickly and develop innovative solutions to problems. My leadership experience includes providing training and assisting colleagues on new technologies as well as being active in S&P Global’s Women In Technology. I have a passion not only to succeed but to help others succeed as well.
 
 
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif?raw=true" width="300" height="200"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true"> 
+<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif?raw=true" width="100" height="50"> <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true"> 
 
 
 
