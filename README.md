@@ -2,7 +2,7 @@
 <img src="https://camo.githubusercontent.com/8a1ff1540e31e071d6a673cac28fe9f7f2907db6ca5374c910ce2b9cbfc5495f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d617273687361687a6164?raw=true" >
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+<!--  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> -->
  <img width="100px" src="https://img.icons8.com/?size=100&id=ECMoRI9OnXkc&format=png&color=000000?raw=true" align="center" alt="GitHub Readme Stats" />
  
  <h2 align="center">GitHub Readme Stats</h2>
@@ -14,11 +14,11 @@
 <p align="center">I am an experienced and highly motivated Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning (DL), and researching new technologies with innate curiosity and a love of learning. With 6 years‘ experience in data analytics, data science, and machine learning, I have a proven track record of writing quality code and delivering projects on schedule as well as demonstrated ability to learn new tools quickly and develop innovative solutions to problems. My leadership experience includes providing training and assisting colleagues on new technologies as well as being active in S&P Global’s Women In Technology. I have a passion not only to succeed but to help others succeed as well.
 </p>
 
-<div style="align: center;">
+<div align="center">
 <!--     <img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif?raw=true" width="100" height="200"> -->
     <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true" align="center">
 </div>
-<div style="align: center;">
+<div align="center">
     <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="600" height="150" align="center" >
 </div>
 
