@@ -9,7 +9,7 @@
 <!--  <img width="100px" src="https://media.tenor.com/IJfX2DlG2AEAAAAi/curiouspiyuesh-piyueshmodi.gif?raw=true" align="center" alt="GitHub Readme Stats" /> -->
 </p>
 
-<h2 align="center">About</h2>
+<h1 align="center">About</h1>
 <p align="left">Hey there! I'm Heesuk Jang 👋, a Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning, and all things machine learning. With over 6 years of experience, I thrive on delivering top-notch solutions and code, while leading the charge in emerging technologies and mentoring teams. I’m proud to be an active contributor to S&P Global’s Women In Technology.
 
 My journey spans finance, computer science, and data science, where I’ve tackled challenges in the energy sector, particularly in natural gas, oil, and coal. I recently earned a master’s degree in Information and Data Science from UC Berkeley, sharpening my skills in exploratory data analysis, feature engineering, and model building/optimization. I’m all about making machine learning more transparent and precise, blending rigorous statistics with clear, insightful communication.
