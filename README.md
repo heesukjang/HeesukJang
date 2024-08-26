@@ -19,7 +19,7 @@
     <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif?raw=true" align="center">
 </div>
 <div align="center">
-    <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="600" height="150" align="center" >
+    <img src="https://github.com/arshsahzad/arshsahzad/blob/master/assets/gifs/snake.svg?raw=true" width="500" height="120" align="center" >
 </div>
 
 
