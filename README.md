@@ -24,7 +24,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
 <br/>
 <h1 align="center">Featured Projects</h1>
-    ### Demo
+<!--     ### Demo -->
 *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
