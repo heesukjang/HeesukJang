@@ -28,7 +28,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <!-- *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
+<h2 align="center">Featured Projects</h2>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
 
