@@ -27,7 +27,20 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <!--     ### Demo -->
 <!-- *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<div>
+ <h2 align="left">WasteWizard with Computer Vision</h2>
+ <ul>
+  <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
+  <li><strong>Tehnologies Used</strong>:</li>
+   <ul>
+    <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
+    <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
+   </ul>
+  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
+  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
+</div>
+  
+<div>
 <h2 align="left">WasteWizard with Computer Vision</h2>
 <ul>
  <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
@@ -38,17 +51,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
   </ul>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
-
-<h2 align="left">WasteWizard with Computer Vision</h2>
-<ul>
- <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
- <li><strong>Tehnologies Used</strong>:</li>
-  <ul>
-   <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
-   <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
-  </ul>
- <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
+</div>
 
 
 
