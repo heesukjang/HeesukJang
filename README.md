@@ -37,7 +37,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
     <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
    </ul>
   <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
-  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
+  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision</a></li>
 </div>
   
 <div>
