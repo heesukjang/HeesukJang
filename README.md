@@ -42,7 +42,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <ul>
    <li>Backend Code</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
    <li>Frontend Code</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
-   <li>Demo Video</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
+   <li>Demo Video</i>: <a href="https://www.ischool.berkeley.edu/projects/2024/wastewizard" target="_blank">[https://github.com/heesukj](https://www.ischool.berkeley.edu/projects/2024/wastewizard)</a></li> 
 </ul>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
