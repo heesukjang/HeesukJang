@@ -27,8 +27,9 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <!--     ### Demo -->
 <!-- *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <div>
- <h2 align="left"><span style="display: inline-block; transform: scale(0.5);">🍀</span>  WasteWizard with Computer Vision</h2>
+ <h2 align="left">WasteWizard with Computer Vision</h2>
  <ul>
   <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
   <li><strong>Tehnologies Used</strong>:</li>
@@ -41,7 +42,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
   
 <div>
-<h2 align="left"><span style="font-size: 4px;">✈️ </span>  Predicting Flight Delays</h2>
+<h2 align="left">Predicting Flight Delays</h2>
 <ul>
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
