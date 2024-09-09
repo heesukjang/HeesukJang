@@ -28,10 +28,11 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <!-- *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 align="left">Featured Projects</h2>
+<h2 align="left">WasteWizard with Computer Vision</h2>
 <ul>
  <li><strong>Description</strong>: ldfjdsflfjdklf</li>
  <li><strong>Tehnologies Used</strong>: ldfjdsflfjdklf</li>
+ <li><strong>Model Built</strong>: ldfjdsflfjdklf</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
 </ul>
 
