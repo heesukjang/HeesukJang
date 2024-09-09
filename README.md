@@ -41,7 +41,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
   
 <div>
-<h2 align="left">✈️  Predicting Flight Delays</h2>
+<h2 align="left"><span style="font-size: 24px;">✈️</span>  Predicting Flight Delays</h2>
 <ul>
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
