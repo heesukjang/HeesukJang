@@ -41,14 +41,10 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
   
 <div>
-<h2 align="left">WasteWizard with Computer Vision</h2>
+<h2 align="left">Predicting Flight Delays</h2>
 <ul>
- <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
- <li><strong>Tehnologies Used</strong>:</li>
-  <ul>
-   <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
-   <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
-  </ul>
+ <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
+ <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
 </div>
