@@ -37,14 +37,19 @@ My journey spans finance, computer science, and data science, where I’ve tackl
    <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
   </ul>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
- <li><strong>Results</strong>: ViT achieved a macro F1 score of 90%, precision of 91%, recall of 89%, and accuracy of 92%.</li>
- <li><strong>Links</strong>:</li> 
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
 
- <ul>
-   <li>Backend Code</i>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision</a></li> 
-   <li>Frontend Code</i>: <a href="https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main" target="_blank">https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main</a></li> 
-   <li>Demo Video</i>: <a href="https://www.ischool.berkeley.edu/projects/2024/wastewizard" target="_blank">https://www.ischool.berkeley.edu/projects/2024/wastewizard</a></li> 
-</ul>
+<h2 align="left">WasteWizard with Computer Vision</h2>
+<ul>
+ <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
+ <li><strong>Tehnologies Used</strong>:</li>
+  <ul>
+   <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
+   <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
+  </ul>
+ <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
+
 
 
 
