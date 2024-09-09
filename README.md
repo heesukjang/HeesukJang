@@ -45,7 +45,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <h2 align="left">Predicting Flight Delays</h2>
 <ul>
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
- <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
+ <li><strong>Tehnologies Used</strong>: PySpark (ML, SQL), Python (Matplotlib, Pandas, NumPy, Seaborn, Datetime), DataBricks, MapReduce</li>
  <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), XGBoost (Top Performer), Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/PredictingFlightDelays" target="_blank">https://github.com/heesukjang/PredictingFlightDelays</a></li>
 </div>
