@@ -46,7 +46,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision/tree/main</a></li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/PredictingFlightDelays" target="_blank">https://github.com/heesukjang/PredictingFlightDelays</a></li>
 </div>
 
 
