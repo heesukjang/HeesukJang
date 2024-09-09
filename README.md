@@ -30,14 +30,14 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 
 <h2 align="left">WasteWizard with Computer Vision</h2>
 <ul>
- <li><strong>Description</strong>: Predicts if a waste item is recyclable or non-recyclable, identifies waste type, provides disposal suggestions, and assigns a certainty score based on the softmax logit probability.</li>
+ <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal, and assigns a certainty score.</li>
  <li><strong>Tehnologies Used</strong>:</li>
   <ul>
-   <li><i>Backend</i>: Python, fastapi, torch, transformers, sklearn, keras, tensorflow, optuna, pandas, numpy</li>
+   <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
    <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
   </ul>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
- <li><strong>Results</strong>: ViT achieved the highest performance with a validation macro F1 score of 90%, precision of 91%, recall of 89%, and accuracy of 92%.</li>
+ <li><strong>Results</strong>: ViT achieved a macro F1 score of 90%, precision of 91%, recall of 89%, and accuracy of 92%.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
 </ul>
 
