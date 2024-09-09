@@ -37,7 +37,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
     <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
     <li><i>Frontend</i>: AWS Amplify, AppSync, S3, DynamoDB, EC2</li>  
    </ul>
-  <li><strong>Models Utilized</strong>: CNNs (Baseline), **Vision Transformer (Top Performer)**, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
+  <li><strong>Models Utilized</strong>: CNNs (Baseline), <strong>Vision Transformer (Top Performer)</strong>strong>, XGBoost, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
   <li><strong>Link</strong>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision</a></li>
 </div>
   
@@ -46,7 +46,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <ul>
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (ml, sql), Python (matplotlib, pandas, numpy, seaborn, datetime), DataBricks, MapReduce</li>
- <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), **XGBoost (Top Performer)**, Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
+ <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), <strong>XGBoost (Top Performer)</strong>strong>, Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/PredictingFlightDelays" target="_blank">https://github.com/heesukjang/PredictingFlightDelays</a></li>
 </div>
 
