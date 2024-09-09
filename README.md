@@ -41,7 +41,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <li><strong>Link</strong>:</li> 
 
  <ul>
-   <li>Backend Code</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
+   <li>Backend Code</i>: <a href="https://github.com/heesukjang/WasteWizardWithComputerVision" target="_blank">https://github.com/heesukjang/WasteWizardWithComputerVision</a></li> 
    <li>Frontend Code</i>: <a href="https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main" target="_blank">https://github.com/efficient-waste-sorting-org/ui-capstone-efficient-waste-sorting-2024/tree/main</a></li> 
    <li>Demo Video</i>: <a href="https://www.ischool.berkeley.edu/projects/2024/wastewizard" target="_blank">https://www.ischool.berkeley.edu/projects/2024/wastewizard</a></li> 
 </ul>
