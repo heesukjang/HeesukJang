@@ -28,7 +28,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <!-- *   Donut Vertical Chart layout
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 <div>
- <h2 align="left">WasteWizard with Computer Vision</h2>
+ <h2 align="left">🍀  WasteWizard with Computer Vision</h2>
  <ul>
   <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
   <li><strong>Tehnologies Used</strong>:</li>
