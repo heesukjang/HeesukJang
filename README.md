@@ -38,7 +38,11 @@ My journey spans finance, computer science, and data science, where I’ve tackl
   </ul>
  <li><strong>Models Utilized</strong>: Vision Transformer (ViT), CNNs, and Transfer Learning models like VGG16, ResNet50, EfficientNet.</li>
  <li><strong>Results</strong>: ViT achieved a macro F1 score of 90%, precision of 91%, recall of 89%, and accuracy of 92%.</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
+ <li><strong>Link</strong>:</li> 
+ <ul>
+   <li>Backend Code</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
+   <li>Frontend Code</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
+   <li>Demo Video</i>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
 </ul>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
