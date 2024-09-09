@@ -54,7 +54,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <h2 align="left">Climate Change Dashboard</h2>
 <ul>
  <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
- <li><strong>Tehnologies Used</strong>: Tableau, D3.JS, Vega-Altair</li>
+ <li><strong>Tehnologies Used</strong>: Bootstrap (Design UI for the Website) Tableau, D3.JS, Vega-Altair</li>
  <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), XGBoost (Top Performer), Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ClimateChangeDashboard" target="_blank">https://github.com/heesukjang/ClimateChangeDashboard</a></li>
 </div>
