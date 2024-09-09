@@ -30,9 +30,10 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 
 <h2 align="left">WasteWizard with Computer Vision</h2>
 <ul>
- <li><strong>Description</strong>: ldfjdsflfjdklf</li>
- <li><strong>Tehnologies Used</strong>: ldfjdsflfjdklf</li>
- <li><strong>Model Built</strong>: ldfjdsflfjdklf</li>
+ <li><strong>Description</strong>: Predict whether a waste item is recyclable or non-recyclable, identifies its specific waste type, provides disposal suggestions, and assigns a certainty score (low, medium, high) for the item's classification based on the softmax logit probability score.</li>
+ <li><strong>Tehnologies Used</strong>: Convolutional Neural Networks,</li>
+ <li><strong>Models Utilized</strong>: Vision Transformer (ViT), Convolutional Neural Networks (CNNs), and Transfer Learning (VGG16, ResNet50, EfficientNet, etc)</li>
+ <li><strong>Results</strong>: The ViT model achieved the highest performance with a validation macro F1 score of 90% (the primary metric), along with precision of 91%, recall of 89%, and accuracy of 92%.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
 </ul>
 
