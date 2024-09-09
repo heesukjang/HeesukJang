@@ -31,10 +31,8 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <h2 align="left">Featured Projects</h2>
 <ul>
  <li><strong>Description</strong>: ldfjdsflfjdklf</li>
- <li><strong>Tehnology Used</strong>: ldfjdsflfjdklf</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li>
- 
- 
+ <li><strong>Tehnologies Used</strong>: ldfjdsflfjdklf</li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukj" target="_blank">https://github.com/heesukj</a></li> 
 </ul>
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackthons, and am an accomplished MC, speaker, and facilitator🎤:. You'll often catch me at an event or speaking on stage!
