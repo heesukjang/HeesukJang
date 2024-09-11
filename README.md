@@ -64,7 +64,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <li><strong>Description</strong>: Develope Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (MLflow, SQL), Python (Matplotlib, Pandas, NumPy, Seaborn, Datetime), DataBricks on GCP, MapReduce</li>
  <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), XGBoost (Top Performer), Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukjang/PredictingFlightDelays" target="_blank">https://github.com/heesukjang/PredictingFlightDelays</a></li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ImproveEnglishEssayWithAI" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
 </div>
 
 
