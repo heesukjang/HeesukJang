@@ -59,7 +59,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
 
 <div>
-<h2 align="left">Improve English Essay with Artificial Intelligence</h2>
+<h2 align="left">Improve English Essay with AI</h2>
 <ul>
  <li><strong>Description</strong>: Develope Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (MLflow, SQL), Python (Matplotlib, Pandas, NumPy, Seaborn, Datetime), DataBricks on GCP, MapReduce</li>
