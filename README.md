@@ -31,7 +31,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div>
  <h2 align="left">WasteWizard with Computer Vision</h2>
  <ul>
-  <li><strong>Description</strong>: Predicts if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
+  <li><strong>Description</strong>: Predicted if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
   <li><strong>Tehnologies Used</strong>:</li>
    <ul>
     <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
@@ -44,7 +44,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div>
 <h2 align="left">Predicting Flight Delays</h2>
 <ul>
- <li><strong>Description</strong>: Predicts departure delays greater than 15 minutes, 2 hours before takeoff.</li>
+ <li><strong>Description</strong>: Predicted departure delays greater than 15 minutes, 2 hours before takeoff.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (MLflow, SQL), Python (Matplotlib, Pandas, NumPy, Seaborn, Datetime), DataBricks on GCP, MapReduce</li>
  <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), XGBoost (Top Performer), Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/PredictingFlightDelays" target="_blank">https://github.com/heesukjang/PredictingFlightDelays</a></li>
@@ -53,7 +53,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div>
 <h2 align="left">Climate Change Dashboard</h2>
 <ul>
- <li><strong>Description</strong>: Builds a dashboard to present a comprehensive view of climate change's global impact using Tableau, D3.js, and Vega-Altair for data visualization and analysis.</li>
+ <li><strong>Description</strong>: Built a dashboard to provide a comprehensive view of climate change's global impact.</li>
  <li><strong>Tehnologies Used</strong>: HTML, CSS, JavaScript, Bootstrap, Tableau, D3.JS, Vega-Altair</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ClimateChangeDashboard" target="_blank">https://github.com/heesukjang/ClimateChangeDashboard</a></li>
 </div>
@@ -61,7 +61,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div>
 <h2 align="left">Improve English Essay with AI</h2>
 <ul>
- <li><strong>Description</strong>: Develope Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
+ <li><strong>Description</strong>: Developed Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
  <li><strong>Tehnologies Used</strong>: PySpark (MLflow, SQL), Python (Matplotlib, Pandas, NumPy, Seaborn, Datetime), DataBricks on GCP, MapReduce</li>
  <li><strong>Models Utilized</strong>: Logistic Regression (Baseline), XGBoost (Top Performer), Decision Tree, Gradient Boosting, Random Forest, Mulitilayer Perception Classifier, and CNNs.</li>
  <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ImproveEnglishEssayWithAI" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
