@@ -31,7 +31,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <div>
  <h2 align="left">WasteWizard with Computer Vision</h2>
  <ul>
-  <li><strong>Description</strong>: Predicted if a waste item is recyclable, identifies its type, suggests disposal methods, and assigns a certainty score.</li>
+  <li><strong>Description</strong>: Predicted if a waste item is recyclable, identified its type, suggested disposal methods, and assigned a certainty score.</li>
   <li><strong>Tehnologies Used</strong>:</li>
    <ul>
     <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
