@@ -62,10 +62,21 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 <h2 align="left">Improve English Essay with AI</h2>
 <ul>
  <li><strong>Description</strong>: Developed Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
- <li><strong>Tehnologies Used</strong>: Python, NLTK, Transformers, Wordcloud, Tensorflow, Keras, Sklearn, Google Colab on GCP, MapReduce</li>
+ <li><strong>Tehnologies Used</strong>: Python, NLTK, Transformers, Wordcloud, Tensorflow, Keras, Sklearn, Google Colab on GCP</li>
  <li><strong>Models Utilized</strong>: BERT and BERTweet Transformer models</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ImproveEnglishEssayWithAI" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukj/IDC-Breast-Cancer-Prediction" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
 </div>
+
+<div>
+<h2 align="left">Invasive Ductal Carcinoma (IDC) Breast Cancer Classification</h2>
+<ul>
+ <li><strong>Description</strong>: Classified IDC breast cancer histopathology images into cancerous and non-cancerous categories.</li>
+ <li><strong>Tehnologies Used</strong>: Python, Tensorflow, Keras, Sklearn, Scipy, Plotly, Seaborn, Google Colab on GCP</li>
+ <li><strong>Models Utilized</strong>: Support Vector Machine (SVM), Random Forest, XGBoost, Convolutional Neural Networks (CNNs), and CNNs enhanced with Transfer Learning techniques, including VGG16, VGG19, ResNet50, ResNet152V2, and DenseNet201</li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/IDCBreastCancerClassification" target="_blank">https://github.com/heesukjang/IDCBreastCancerClassification</a></li>
+</div>
+
+
 
 
 
