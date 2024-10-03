@@ -82,10 +82,9 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 </div>
 
 <div>
-<h2 align="left">Resume</h2>
- <p>Check out my resume for an overview of my skills, work experience, and education..</p>
+<h2 align="left">Contact</h2>
+ <p>Check out my <a href="https://github.com/heesukjang/Resume/blob/main/Resume_HeesukJang.pdf" target="_blank">resume</a> for an overview of my skills, work experience, and education</p>
 </div>
-
 
 
 
