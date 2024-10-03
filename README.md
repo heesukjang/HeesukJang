@@ -81,6 +81,11 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <p>Feel free to reach out to me via email at <a href="mailto:heesuk.jang@gmail.com">heesuk.jang@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/heesukjang/" target="_blank">LinkedIn (www.linkedin.com/in/heesukjang/)</a>.</p>
 </div>
 
+<div>
+<h2 align="left">Resume</h2>
+ <p>Check out my resume for an overview of my skills, work experience, and education..</p>
+</div>
+
 
 
 
