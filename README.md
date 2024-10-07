@@ -64,7 +64,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
  <li><strong>Description</strong>: Developed Automated Essay Scoring (AES) System employing Natural Language Processing (NLP) technology.</li>
  <li><strong>Tehnologies Used</strong>: Python, NLTK, Transformers, Wordcloud, Tensorflow, Keras, Sklearn, Google Colab on GCP</li>
  <li><strong>Models Utilized</strong>: BERT and BERTweet Transformer models</li>
- <li><strong>Link</strong>: <a href="https://github.com/heesukj/IDC-Breast-Cancer-Prediction" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
+ <li><strong>Link</strong>: <a href="https://github.com/heesukjang/ImproveEnglishEssayWithAI" target="_blank">https://github.com/heesukjang/ImproveEnglishEssayWithAI</a></li>
 </div>
 
 <div>
