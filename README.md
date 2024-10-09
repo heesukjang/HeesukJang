@@ -79,7 +79,7 @@ My journey spans finance, computer science, and data science, where I’ve tackl
 
 <div>
 <h2 align="left">Contact</h2>
- <p>Feel free to reach out to me via email at <a href="mailto:heesuk.jang@gmail.com">heesuk.jang@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/heesukjang/" target="_blank">LinkedIn (https://www.linkedin.com/in/heesukjang/)</a> or visit my website at <a href="https://www.heesukj.com" target="_blank">https://www.heesukj.com</a>.</p>
+ <p>Feel free to reach out to me via email at <a href="mailto:heesuk.jang@gmail.com">heesuk.jang@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/heesukjang/" target="_blank">LinkedIn (https://www.linkedin.com/in/heesukjang/)</a> or visit my website at <a href="https://www.heesukj.com" target="_blank">https://www.heesukj.com</a> to explore more of my personal and professional projects.</p>
 </div>
 
 <div>
