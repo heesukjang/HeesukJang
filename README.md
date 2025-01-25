@@ -10,9 +10,9 @@
 </p>
 
 <h1 align="center">About</h1>
-<p align="left">Hey there! I'm Heesuk Jang 👋, a Data Scientist and Analyst with a passion for Natural Language Understanding (NLU), Deep Learning, and all things machine learning. With over 6 years of experience, I thrive on delivering top-notch solutions and code, while leading the charge in emerging technologies and mentoring teams. I’m proud to be an active contributor to S&P Global’s Women In Technology.
+<p align="left">Hi there! I’m Heesuk Jang 👋—a Data Scientist and Analyst driven by curiosity, innovation, and a love for problem-solving. With a deep passion for Natural Language Understanding (NLU), Deep Learning, and machine learning, I thrive on crafting cutting-edge solutions that transform ideas into impactful results. Over the past 6+ years, I’ve taken on challenges across industries, pushing boundaries in the energy sector and beyond, while mentoring teams and championing growth. As an active contributor to S&P Global’s Women In Technology, I’m proud to advocate for diversity and inspire the next wave of tech talent.
 
-My journey spans finance, computer science, and data science, where I’ve tackled challenges in the energy sector, particularly in natural gas, oil, and coal. I recently earned a master’s degree in Information and Data Science from UC Berkeley, sharpening my skills in exploratory data analysis, feature engineering, and model building/optimization. I’m all about making machine learning more transparent and precise, blending rigorous statistics with clear, insightful communication.
+My journey has been fueled by a hunger for learning and making a difference. From tackling complex data challenges in natural gas, oil, and coal to earning my Master’s in Information and Data Science from UC Berkeley, I’ve developed a unique ability to blend rigorous technical skills with creative problem-solving. Whether it’s through exploratory data analysis, feature engineering, or model optimization, I’m passionate about making machine learning transparent, precise, and actionable. For me, it’s not just about crunching numbers—it’s about telling stories with data and uncovering insights that matter.
 </p>
 
 <div align="center">
