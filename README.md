@@ -31,7 +31,7 @@ My journey has been fueled by a hunger for learning and making a difference. Fro
 <div>
  <h3 align="left">WasteWizard with Computer Vision</h3>
  <ul>
-  <li><strong>Description</strong>: Predicted if a waste item is recyclable, identified its type, suggested disposal methods, and assigned a certainty score.</li>
+  <li><strong>Description</strong>: Developed a cutting-edge system that predicts if a waste item is recyclable, identifies its type, suggests appropriate disposal methods, and assigns a certainty score to the prediction output. This solution leverages advanced computer vision techniques to promote sustainable waste management practices.</li>
   <li><strong>Tehnologies Used</strong>:</li>
    <ul>
     <li><i>Backend</i>: Python, FastAPI, Torch, Transformers, Sklearn, Keras, TensorFlow, Optuna, Pandas, Numpy</li>
